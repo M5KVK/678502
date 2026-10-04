@@ -8,6 +8,4 @@ permalink: /about.html
 **Callsign:** {{ site.callsign }}
 **Type:** Repeater link
 
-Node 678502 is a link to the GB3OV repeater located near St Neots, Cambridgeshire, UK.
-
-It can also be accessed as Echolink node xxxxxx.
+Node 678502 is an access-controlled link to the GB3OV repeater located near St Neots, Cambridgeshire, UK and serving an area bounded by Wellingborough to the West, Peterborough to the North, Cambridge to the East and Sandy to the South, with extended access North East into Fenland.
